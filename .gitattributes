@@ -1,0 +1,2 @@
+#set lines ecding for text file
+*.txt text eol=lf
